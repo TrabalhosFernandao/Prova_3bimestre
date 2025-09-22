@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "nome": "adsads",
+    "senha": "$2b$08$0zhD5vl0k/jw9BOkqKj9aulhAO8CzCe7IfT/oz.htm.AYcOjVua7K"
+  },
+  {
+    "id": 2,
+    "nome": "Marcelo",
+    "email": "teste@gmail.com",
+    "senha": "$2b$08$815WbWqJn.XcidDFFiS18OknOaTsj.DlhUDLUmCla82PxMukyOV4q"
+  },
+  {
+    "id": 3,
+    "nome": "Marcelo",
+    "email": "teste@gmail.com",
+    "senha": "$2b$08$MCWPmIEtiZme3KjMCsQ0CeM/KnQkPnvClWaDlzi/eNPSNkvBxnPAO"
+  },
+  {
+    "id": 4,
+    "nome": "batatinha",
+    "email": "reidocapa22",
+    "senha": "$2b$08$mPFXzfsQVbjoj4/NbEsbHeUN3pumjgsmC5LAY3tY8yDb8GDyFi8Ua"
+  }
+]
