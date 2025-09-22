@@ -1,4 +1,4 @@
-## Use npm install no terminal da raiz do projeto
+## Use npm install na raiz do projeto(terminal)
 
 
 # Rotas da API
