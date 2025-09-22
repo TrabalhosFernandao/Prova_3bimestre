@@ -2,9 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import bcrypt from 'bcryptjs';
 
-import {generateToken}  from '../middleware/auth.middleware.js';
+import {generateToken}  from '../middleware/auth.js';
 
-const filePath = path.resolve('data/sampleData.json');
+const filePath = path.resolve('db.json');
 
 
 export const login = (req, res) => {

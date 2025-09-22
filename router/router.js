@@ -7,7 +7,7 @@ import {
   deleteDado,
   login,
 } from '../controllers/controller.js';
-import { authenticateToken } from '../middleware/auth.middleware.js';
+import { authenticateToken } from '../middleware/auth.js';
 
 const router = express.Router();
 
